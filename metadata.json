@@ -1,0 +1,6 @@
+{
+  "name": "Health Risk Analytics Dashboard",
+  "description": "ระบบแดชบอร์ดติดตามและวิเคราะห์ความเสี่ยงด้านสุขภาพ Health Risk พร้อมระบบวิเคราะห์ KPI แนวโน้มสุขภาพ และพฤติกรรมเสี่ยง",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
